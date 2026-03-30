@@ -21,6 +21,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="Projeto Discover" src=".github/preview.png" width="100%">
 </p>
 
+Meu Primeiro Projeto, consegui desenvolver bastante e aprender coisas novas. Aprendi como que faz para colocar o light e o dark.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma 
+- Figma
 
 ## 💻 Projeto
 
